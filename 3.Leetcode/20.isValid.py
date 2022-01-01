@@ -1,6 +1,8 @@
 #Runtime: 27 ms, faster than 18.65% of Python online submissions for Valid Parentheses.
 #Memory Usage: 13.7 MB, less than 35.10% of Python online submissions for Valid Parentheses.
 
+#題目: 判斷字符串s 中 () {} []的各種組合是否正確
+
 def isValid(s):
     """
     :type s: str

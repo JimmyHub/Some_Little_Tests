@@ -1,5 +1,9 @@
 #Runtime: 60 ms, faster than 46.01% of Python online submissions for Palindrome Number.
 #Memory Usage: 13.5 MB, less than 38.67% of Python online submissions for Palindrome Number.
+
+#題目: 判斷給定的數字 是否為回文結構
+# 即不論以正序或反序讀取的值皆一樣 例如 121
+# 如果是 則返回 True 否則 返回 False
 class Solution(object):
     def isPalindrome(self, x):
         """

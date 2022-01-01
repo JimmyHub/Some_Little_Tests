@@ -1,6 +1,7 @@
 #Runtime: 24 ms, faster than 98.47% of Python online submissions for Roman to Integer.
 #Memory Usage: 13.4 MB, less than 61.95% of Python online submissions for Roman to Integer.
-
+#題目: 根據給定的羅馬字母字符串s ， 轉換成數字
+#規則可查閱該網站
 class Solution(object):
     def romanToInt(self, s):
         """
